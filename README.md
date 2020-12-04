@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 2.7,
+    "ConfigVersion": 2.8,
     "ConfigUpdateMsg": "Added Private Server",
     "SshPort": "22",
     "SshStunnelPort": "443",
@@ -96,13 +96,13 @@
 			"Payload": "GXZlwJ2zjuwx4tjAKY87698wQrOsHrijEne/Eh9onQ+7/6SqOSFhqo5dj0fAVDBT5LJh/M4J54wxclCWHY0jjZifV0ZQjahIJyuH/H7rujAWqsLhmEAwtZ0itMUug/bZiIdsZUYP6/Cv8TT/ourKIN/7kxiF8xUw5044AGoB8GlKMvwGl5xHB+fW0AB4Jrc4vVhvFQqn7pFxGNwHm/0BHg=="
 		}, 
 {
-			"Name": "Kuwait STC free 🇰🇼 - INJECT",
+			"Name": "Kuwait STC Viva free 🇰🇼 - INJECT",
 			"FrontQuery": "",
 			"BackQuery": "",
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Sni": "",
-			"Payload": "GXZlwJ2zjuwx4tjAKY876xT4Fd/4XhSrPwfuBFz4gMepbrtkzIZckiAPvsyKzpIY/FDZ64V8LEratKtX6d3Zsq6DsGM/Z6yv/DkWSj+yyw+nA2bAgBMf8rii/ma3BEeqpeNGVToC32gHhx6eSMj3TqSJkOrXRfRSjbpAboGuvis="
+			"Payload": "ihsiums4iAvZaXMeBimjxMVbwgNaS9UruJCbKLM0LLlI8cgzuILJ2tJq3q09m+EMK/gM2pU3DSX916GBHn8TahsBFRlqOGl7SMPL8g9Bvxvw80nsZ122P1dKluuu4+/l"
 		}, 
 {
 			"Name": "Dhiraagu Maldives Free 🇲🇻 - INJECT",
@@ -300,6 +300,15 @@
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Sni": "u3wWIhswyXaDZFVPFplsOA==",
+			"Payload": ""
+		}, 
+{
+			"Name": "Zoom Comunication pack 💯 - SSL",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Sni": "g/oNuQsV0Mb31vVqW34+wg==",
 			"Payload": ""
 		}
 	],
@@ -657,11 +666,6 @@
 		{
 			"SubInfo": "Server 70 vip",
 			"Server": "bd10.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 71 vip",
-			"Server": "168.119.157.66",
 			"Location": "DE"
 		}
 	]
