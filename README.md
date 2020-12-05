@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 2.8,
+    "ConfigVersion": 2.9,
     "ConfigUpdateMsg": "Added Private Server",
     "SshPort": "22",
     "SshStunnelPort": "443",
@@ -58,6 +58,15 @@
 			"CustomProxy": "",
 			"Sni": "",
 			"Payload": "GXZlwJ2zjuwx4tjAKY8766l14reESt0qePcCr6QZcg0CHLl/Gi8c83JXwgHCyYW1eSEMfG1g8LAxhgAZs5GhFwBnInH9QHGHntZtzpwrGcrIC5namVrWp5kVbAT5iWJt0F8zoM1n27qHlT9IOsJn1eNBw/yhum3HFyq3+1KCd8J2H91/3O84aTZbO5pJH8mkcVlmd/g3LNqs4etuSjD5+rBAEr/+tgMXIvJVmT9LmTKiVkHxPhMM5rnjkJ9NKQEqQMATfjXfWf1KfCIhXNU5wzj1gTkUhFaVS191VZO+7fu1aKGcpGluzEyPw4vTVUPJ"
+		}, 
+       {
+			"Name": "DST Sim 16USD Pack 🇧🇳  Dial *133# - SSL",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Sni": "g/oNuQsV0Mb31vVqW34+wg==",
+			"Payload": ""
 		}, 
 {
 			"Name": "StarHub free 🇸🇬 - INJECT",
