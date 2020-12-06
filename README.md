@@ -1,9 +1,9 @@
 {
-    "ConfigVersion": 3.0,
+    "ConfigVersion": 3.1,
     "ConfigUpdateMsg": "Added Private Server",
     "SshPort": "22",
     "SshStunnelPort": "443",
-    "SquidPort": "8010",
+    "SquidPort": "80",
 	"Spoofs": [  
 	  {
 			"Name": "Mobily Free 100% New 🇸🇦 - INJECT",
