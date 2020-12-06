@@ -1,27 +1,27 @@
 {
-    "ConfigVersion": 2.9,
+    "ConfigVersion": 3.0,
     "ConfigUpdateMsg": "Added Private Server",
     "SshPort": "22",
     "SshStunnelPort": "443",
     "SquidPort": "8010",
 	"Spoofs": [  
 	  {
-			"Name": "Mobily Free 100% 🇸🇦 - INJECT",
+			"Name": "Mobily Free 100% New 🇸🇦 - INJECT",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Sni": "",
+			"Payload": "J1PlYEu+bGWxFmzZXwf8mwbvX/3x5g3+l1AczHVt4lje1wmxOO8+HkeYljx2otBIAXpR5Zp3Up9Jrwudawu6oJzfSlaEumABNAoNZjMESAigpjNRo6O+Et4BzuQtdh1WNjDD6m3Y0jJ/vZzu9iaqun2Qryenn/UOAnnAjq0bL84="
+		}, 
+{
+			"Name": "Mobily Free old 🇸🇦 - INJECT",
 			"FrontQuery": "",
 			"BackQuery": "",
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Sni": "",
 			"Payload": "tiSZ/gR3SKTKViaPQqJpCO21EUx65WDCA+YRh9MrsQY3XWHQcTJqYfqvFLkWQIdy+xFn5C+zX9E1M5ifXvEi4QlU/P3V+92YwuMa04p/BFN8g/yVrZCVzfSG/+6dc0Z4Lkb86Zi88sVbMl2sgcddAuSsKtA5pFlVT15oSITUJo8i5NVdr4kSP6bMeeD7hwHVo8t8jEHkDDZHjoP32/SyafvpW7bkUV94bu8Eo2zrYw94rI3DA1eNvUdJpgILrOpl2IBbWRmExqe62DzSS6QsjvW/ppdzGp3HGkgponST4jQ="
-		}, 
-{
-			"Name": "Mobily All Block Area free 🇸🇦 - SSL",
-			"FrontQuery": "",
-			"BackQuery": "",
-			"UseCustom": false,
-			"CustomProxy": "",
-			"Sni": "Q2T2xIUNT8aUWs/MunL+aw==",
-			"Payload": ""
 		}, 
 {
 			"Name": "Saudi Zain free 🇸🇦 - SSL",
