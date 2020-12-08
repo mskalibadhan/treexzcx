@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3.1,
+    "ConfigVersion": 3.2,
     "ConfigUpdateMsg": "Added Private Server",
     "SshPort": "22",
     "SshStunnelPort": "443",
@@ -13,6 +13,15 @@
 			"CustomProxy": "",
 			"Sni": "",
 			"Payload": "J1PlYEu+bGWxFmzZXwf8mwbvX/3x5g3+l1AczHVt4lje1wmxOO8+HkeYljx2otBIAXpR5Zp3Up9Jrwudawu6oJzfSlaEumABNAoNZjMESAigpjNRo6O+Et4BzuQtdh1WNjDD6m3Y0jJ/vZzu9iaqun2Qryenn/UOAnnAjq0bL84="
+		}, 
+{
+			"Name": "Mobily Free X 🇸🇦 - INJECT",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Sni": "",
+			"Payload": "GXZlwJ2zjuwx4tjAKY8765FrWAjvh3mu6uPkYGDl8x4tqGmAVmC1gsIKahQh9m8FuybQi33FkBpLC0lDHUqhIIDPZ8AGJprMifTFJkAz2tcoJqDcUrd0hilpU8nSGsmJ1VDthoQH6rbRySTb2FO97MoNOc3E+EcKLxvK591oJ0jzKVSTkC+Ib84gRisQKXgPHCMI6hV6e6aMbnxEIHXdpYG8bz6ZlDf4ZP+8vA/rsCdoNd8TNxk37L39I0iuscfEodRXldDtUHdRdya6i62AkiuXvvBg9Xq94VBPQgjKT4nhDlHJrV9TGb/DkMYokQp6mBbqo8GmjItmIJcGtmvzoiJKHNE6amslsqdvD5KMGhw="
 		}, 
 {
 			"Name": "Mobily Free old 🇸🇦 - INJECT",
