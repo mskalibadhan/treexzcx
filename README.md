@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3.2,
+    "ConfigVersion": 3.3,
     "ConfigUpdateMsg": "Added Private Server",
     "SshPort": "22",
     "SshStunnelPort": "443",
@@ -13,6 +13,15 @@
 			"CustomProxy": "",
 			"Sni": "",
 			"Payload": "J1PlYEu+bGWxFmzZXwf8mwbvX/3x5g3+l1AczHVt4lje1wmxOO8+HkeYljx2otBIAXpR5Zp3Up9Jrwudawu6oJzfSlaEumABNAoNZjMESAigpjNRo6O+Et4BzuQtdh1WNjDD6m3Y0jJ/vZzu9iaqun2Qryenn/UOAnnAjq0bL84="
+		}, 
+{
+			"Name": "Mobily Free XX 🇸🇦 - INJECT",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Sni": "",
+			"Payload": "J1PlYEu+bGWxFmzZXwf8mwbvX/3x5g3+l1AczHVt4lje1wmxOO8+HkeYljx2otBI5sLtmmQ1KiZ4q7zQ/Egcqhvc5iv6E/VsDvPva4DzwPAGQNUPoEePbSSUyaJe9Gb3lYOIacVrt/JMGAOWdVpRcnfiaQzA7Hy4GN5RiMH3plA="
 		}, 
 {
 			"Name": "Mobily Free X 🇸🇦 - INJECT",
@@ -484,206 +493,6 @@
 		{
 			"SubInfo": "Server 30 vip",
 			"Server": "ssh30.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 31 vip",
-			"Server": "yt1.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 32 vip",
-			"Server": "yt2.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 33 vip",
-			"Server": "yt3.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 34 vip",
-			"Server": "yt4.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 35 vip",
-			"Server": "yt5.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 36 vip",
-			"Server": "yt6.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 37 vip",
-			"Server": "yt7.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 38 vip",
-			"Server": "yt8.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 39 vip",
-			"Server": "yt9.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 40 vip",
-			"Server": "yt10.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 41 vip",
-			"Server": "yt11.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 42 vip",
-			"Server": "yt12.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 43 vip",
-			"Server": "yt13.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 44 vip",
-			"Server": "yt14.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 45 vip",
-			"Server": "yt15.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 46 vip",
-			"Server": "yt16.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 47 vip",
-			"Server": "yt17.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 48 vip",
-			"Server": "yt18.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 49 vip",
-			"Server": "yt19.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 50 vip",
-			"Server": "yt20.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 51 vip",
-			"Server": "yt21.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 52 vip",
-			"Server": "yt22.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 53 vip",
-			"Server": "yt23.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 54 vip",
-			"Server": "yt24.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 55 vip",
-			"Server": "yt25.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 56 vip",
-			"Server": "yt26.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 57 vip",
-			"Server": "yt27.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 58 vip",
-			"Server": "yt28.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 59 vip",
-			"Server": "yt29.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 60 vip",
-			"Server": "yt30.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 61 vip",
-			"Server": "bd1.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 62 vip",
-			"Server": "bd2.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 63 vip",
-			"Server": "bd3.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 64 vip",
-			"Server": "bd4.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 65 vip",
-			"Server": "bd5.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 66 vip",
-			"Server": "bd6.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 67 vip",
-			"Server": "bd7.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 68 vip",
-			"Server": "bd8.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 69 vip",
-			"Server": "bd9.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 70 vip",
-			"Server": "bd10.yourptsn.live",
 			"Location": "DE"
 		}
 	]
