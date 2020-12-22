@@ -51,6 +51,15 @@
 			"Payload": ""
 		}, 
 {
+			"Name": "Saudi Zain Free 🇸🇦 - INJECT",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Sni": "",
+			"Payload": "GXZlwJ2zjuwx4tjAKY876/I0TqYJUmVSjOoMCR4P7WZkx+n1rcFveWwgPq5LI9dFlKJNZXBTMpoVqMtescqsnkLwfj7QJmzY7x3w9aGLPbnrMsgFMZa392ebyYxcpmQwc2wn9EM16t+DlJYgmCTCz3ltIZ4CfeXIYFppZvz96SrFu5MFYdr535RFs+7c7BMp18rTHpPkHRQ2JwPbD+HEgRdZUB5cCIIoPEED957fkm4pYg0unCwJGqs8U2RzTihCyRH4+Ei0HTFWK6bodwv34Cs56P9heFcg7e6CAmwXWhp4yK4EaiVyFgN89f72c67EvSs40osJnj3hDIV0qEnt4g=="
+		}, 
+{
 			"Name": "Saudi STC 43 SAR 🇸🇦 - SSL",
 			"FrontQuery": "",
 			"BackQuery": "",
@@ -391,7 +400,7 @@
 			"Location": "DE"
 		},
 		{
-			"SubInfo": "Server 10 zain free vip",
+			"SubInfo": "Server 10 vip",
 			"Server": "ssh10.yourptsn.live",
 			"Location": "DE"
 		},
