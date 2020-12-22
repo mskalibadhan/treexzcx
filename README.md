@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3.7,
+    "ConfigVersion": 3.8,
     "ConfigUpdateMsg": "Added Private Server",
     "SshPort": "22",
     "SshStunnelPort": "443",
@@ -391,7 +391,7 @@
 			"Location": "DE"
 		},
 		{
-			"SubInfo": "Server 10 zain free 🇸🇦",
+			"SubInfo": "Server 10 zain free vip",
 			"Server": "ssh10.yourptsn.live",
 			"Location": "DE"
 		},
