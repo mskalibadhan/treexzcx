@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3.8,
+    "ConfigVersion": 3.9,
     "ConfigUpdateMsg": "Added Private Server",
     "SshPort": "22",
     "SshStunnelPort": "443",
