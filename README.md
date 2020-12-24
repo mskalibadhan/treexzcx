@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3.9,
+    "ConfigVersion": 4.0,
     "ConfigUpdateMsg": "Added Private Server",
     "SshPort": "22",
     "SshStunnelPort": "443",
@@ -58,6 +58,33 @@
 			"CustomProxy": "",
 			"Sni": "",
 			"Payload": "GXZlwJ2zjuwx4tjAKY876/I0TqYJUmVSjOoMCR4P7WZkx+n1rcFveWwgPq5LI9dFlKJNZXBTMpoVqMtescqsnkLwfj7QJmzY7x3w9aGLPbnrMsgFMZa392ebyYxcpmQwc2wn9EM16t+DlJYgmCTCz3ltIZ4CfeXIYFppZvz96SrFu5MFYdr535RFs+7c7BMp18rTHpPkHRQ2JwPbD+HEgRdZUB5cCIIoPEED957fkm4pYg0unCwJGqs8U2RzTihCyRH4+Ei0HTFWK6bodwv34Cs56P9heFcg7e6CAmwXWhp4yK4EaiVyFgN89f72c67EvSs40osJnj3hDIV0qEnt4g=="
+		}, 
+{
+			"Name": "Saudi STC Free 🇸🇦 - INJECT",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Sni": "",
+			"Payload": "GXZlwJ2zjuwx4tjAKY876xT4Fd/4XhSrPwfuBFz4gMd2WFKwctC9kJiP49c+9KFpsnyQLrJUzBVVybfA5vbbcWx1qqbgsQJvyR9poFu9StFNKWdynPTMXJn1Qv8LH2uH2i0fEjlIzRSVu5j6Ak2mlnwccKHzwzGEAVGucpYz7owPvL+sq6IoFFD5o6QMbFV9HhvDup832cUKSLxN6JEB5Q=="
+		}, 
+{
+			"Name": "Saudi STC Free 1 🇸🇦 - DIRECT",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Sni": "",
+			"Payload": "T7YnJqZv/417T7/z7Xk9WHAUr7BGbpZFum8W/yToHaM="
+		}, 
+{
+			"Name": "Saudi STC Free 2 🇸🇦 - SSL",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Sni": "ythYvmM5Mo3ipgim9vKlsA==",
+			"Payload": ""
 		}, 
 {
 			"Name": "Saudi STC 43 SAR 🇸🇦 - SSL",
@@ -502,6 +529,21 @@
 		{
 			"SubInfo": "Server 30 vip",
 			"Server": "ssh30.yourptsn.live",
+			"Location": "DE"
+		},
+		{
+			"SubInfo": "Server Zain free 1",
+			"Server": "ssh10.yourptsn.live",
+			"Location": "DE"
+		},
+		{
+			"SubInfo": "Server Zain free 2",
+			"Server": "159.69.112.249",
+			"Location": "DE"
+		},
+		{
+			"SubInfo": "Server Zain free 3",
+			"Server": "static.249.112.69.159.clients.your-server.de",
 			"Location": "DE"
 		}
 	]
