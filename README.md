@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4.0,
+    "ConfigVersion": 4.1,
     "ConfigUpdateMsg": "Added Private Server",
     "SshPort": "22",
     "SshStunnelPort": "443",
@@ -12,7 +12,7 @@
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Sni": "",
-			"Payload": "J1PlYEu+bGWxFmzZXwf8mwbvX/3x5g3+l1AczHVt4lje1wmxOO8+HkeYljx2otBIAXpR5Zp3Up9Jrwudawu6oJzfSlaEumABNAoNZjMESAigpjNRo6O+Et4BzuQtdh1WNjDD6m3Y0jJ/vZzu9iaqun2Qryenn/UOAnnAjq0bL84="
+			"Payload": "GXZlwJ2zjuwx4tjAKY8765FrWAjvh3mu6uPkYGDl8x4tqGmAVmC1gsIKahQh9m8FuybQi33FkBpLC0lDHUqhIIDPZ8AGJprMifTFJkAz2tcoJqDcUrd0hilpU8nSGsmJRZoqiEbjWZilK4B3gvt3BzRJ4UKWZYkeanCDAzFRSI7XSHr+fW3soe2Gw9jdB1MFsBntQHuaHdnkpnY2f+/jMzXCsxvYvD9ARULogwg46gCEUktLnAJFhcRY89/bCjYYdprzF4Eofu9r5L6oHvsq4A=="
 		}, 
 {
 			"Name": "Mobily Free XX 🇸🇦 - INJECT",
