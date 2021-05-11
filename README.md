@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4.2,
+    "ConfigVersion": 4.4,
     "ConfigUpdateMsg": "Added Private Server",
     "SshPort": "22",
     "SshStunnelPort": "443",
@@ -13,24 +13,6 @@
 			"CustomProxy": "",
 			"Sni": "",
 			"Payload": "9mdAVWEc3sRSigoHqWSeU+INGzMQEfh9VowQ2Z6nWKFShkOqt9KwSNcjPFoA4JZ4"
-		}, 
-{
-			"Name": "Mobily Free XX 🇸🇦 - INJECT",
-			"FrontQuery": "",
-			"BackQuery": "",
-			"UseCustom": false,
-			"CustomProxy": "",
-			"Sni": "",
-			"Payload": "J1PlYEu+bGWxFmzZXwf8mwbvX/3x5g3+l1AczHVt4lje1wmxOO8+HkeYljx2otBI5sLtmmQ1KiZ4q7zQ/Egcqhvc5iv6E/VsDvPva4DzwPAGQNUPoEePbSSUyaJe9Gb3lYOIacVrt/JMGAOWdVpRcnfiaQzA7Hy4GN5RiMH3plA="
-		}, 
-{
-			"Name": "Mobily Free X 🇸🇦 - INJECT",
-			"FrontQuery": "",
-			"BackQuery": "",
-			"UseCustom": false,
-			"CustomProxy": "",
-			"Sni": "",
-			"Payload": "GXZlwJ2zjuwx4tjAKY8765FrWAjvh3mu6uPkYGDl8x4tqGmAVmC1gsIKahQh9m8FuybQi33FkBpLC0lDHUqhIIDPZ8AGJprMifTFJkAz2tcoJqDcUrd0hilpU8nSGsmJ1VDthoQH6rbRySTb2FO97MoNOc3E+EcKLxvK591oJ0jzKVSTkC+Ib84gRisQKXgPHCMI6hV6e6aMbnxEIHXdpYG8bz6ZlDf4ZP+8vA/rsCdoNd8TNxk37L39I0iuscfEodRXldDtUHdRdya6i62AkiuXvvBg9Xq94VBPQgjKT4nhDlHJrV9TGb/DkMYokQp6mBbqo8GmjItmIJcGtmvzoiJKHNE6amslsqdvD5KMGhw="
 		}, 
 {
 			"Name": "Mobily Free old 🇸🇦 - INJECT",
@@ -432,119 +414,19 @@
 			"Location": "DE"
 		},
 		{
-			"SubInfo": "Server 11 vip",
-			"Server": "ssh11.yourptsn.live",
-			"Location": "DE"
+			"SubInfo": "Server BD 1",
+			"Server": "bdssh1.yourptsn.live",
+			"Location": "BD"
 		},
 		{
-			"SubInfo": "Server 12 vip",
-			"Server": "ssh12.yourptsn.live",
-			"Location": "DE"
+			"SubInfo": "Server BD 2",
+			"Server": "bdssh2.yourptsn.live",
+			"Location": "BD"
 		},
 		{
-			"SubInfo": "Server 13 vip",
-			"Server": "ssh13.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 14 vip",
-			"Server": "ssh14.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 15 vip",
-			"Server": "ssh15.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 16 vip",
-			"Server": "ssh16.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 17 vip",
-			"Server": "ssh17.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 18 vip",
-			"Server": "ssh18.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 19 vip",
-			"Server": "ssh19.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 20 vip",
-			"Server": "ssh20.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 21 vip",
-			"Server": "ssh21.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 22 vip",
-			"Server": "ssh22.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 23 vip",
-			"Server": "ssh23.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 24 vip",
-			"Server": "ssh24.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 25 vip",
-			"Server": "ssh25.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 26 vip",
-			"Server": "ssh26.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 27 vip",
-			"Server": "ssh27.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 28 vip",
-			"Server": "ssh28.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 29 vip",
-			"Server": "ssh29.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server 30 vip",
-			"Server": "ssh30.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server Zain free 1",
-			"Server": "ssh10.yourptsn.live",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server Zain free 2",
-			"Server": "159.69.112.249",
-			"Location": "DE"
-		},
-		{
-			"SubInfo": "Server Zain free 3",
-			"Server": "static.249.112.69.159.clients.your-server.de",
-			"Location": "DE"
+			"SubInfo": "Server BD 3",
+			"Server": "bdssh3.yourptsn.live",
+			"Location": "BD"
 		}
 	]
 }
