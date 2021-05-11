@@ -1,18 +1,18 @@
 {
-    "ConfigVersion": 4.4,
+    "ConfigVersion": 4.5,
     "ConfigUpdateMsg": "Added Private Server",
     "SshPort": "22",
     "SshStunnelPort": "443",
     "SquidPort": "80",
 	"Spoofs": [  
 	  {
-			"Name": "Mobily Free 100% New 🇸🇦 - INJECT",
+			"Name": "All Network - INJECT",
 			"FrontQuery": "",
 			"BackQuery": "",
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Sni": "",
-			"Payload": "9mdAVWEc3sRSigoHqWSeU+INGzMQEfh9VowQ2Z6nWKFShkOqt9KwSNcjPFoA4JZ4"
+			"Payload": ""
 		}, 
 {
 			"Name": "Mobily Free old 🇸🇦 - INJECT",
