@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4.5,
+    "ConfigVersion": 4.6,
     "ConfigUpdateMsg": "Added Private Server",
     "SshPort": "22",
     "SshStunnelPort": "443",
@@ -12,7 +12,7 @@
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Sni": "",
-			"Payload": ""
+			"Payload": "xveB2g0xsrkBAvHXZqjF8WnXBLXF9X0YMVXXs/h/5wdiZjo4oUN8bGJG37RW3o3kitzXTJ1m/lPWQJHn2MHBdkRKib6NlPmxwuEN71njXyl9M2iVB4vvFJCnPmiK310munZTSJBJieMjTO7GuwxbcVPpTcoaog6Apkr4LYzGTy2IKELP1kvkbCUNwYxsRwTVuJe65OK2DzIrEveMvE6/kTKGRQymlz3xJXvuD1mli5yiyW8y5RYaV/rt0CS3/nABRgxq3Ln9cigsaNMlzW5TGC4J6TFptPFNn4DL8KZ2E+Eh4HoONzB9PWoljp9H9bbR"
 		}, 
 {
 			"Name": "Mobily Free old 🇸🇦 - INJECT",
