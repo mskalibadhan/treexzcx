@@ -1,18 +1,18 @@
 {
-    "ConfigVersion": 4.6,
+    "ConfigVersion": 4.7,
     "ConfigUpdateMsg": "Added Private Server",
     "SshPort": "22",
     "SshStunnelPort": "443",
     "SquidPort": "80",
 	"Spoofs": [  
 	  {
-			"Name": "All Network - INJECT",
+			"Name": "Qatat Ooredoo Free - INJECT",
 			"FrontQuery": "",
 			"BackQuery": "",
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Sni": "",
-			"Payload": "xveB2g0xsrkBAvHXZqjF8WnXBLXF9X0YMVXXs/h/5wdiZjo4oUN8bGJG37RW3o3kitzXTJ1m/lPWQJHn2MHBdkRKib6NlPmxwuEN71njXyl9M2iVB4vvFJCnPmiK310munZTSJBJieMjTO7GuwxbcVPpTcoaog6Apkr4LYzGTy2IKELP1kvkbCUNwYxsRwTVuJe65OK2DzIrEveMvE6/kTKGRQymlz3xJXvuD1mli5yiyW8y5RYaV/rt0CS3/nABRgxq3Ln9cigsaNMlzW5TGC4J6TFptPFNn4DL8KZ2E+Eh4HoONzB9PWoljp9H9bbR"
+			"Payload": "r/bWan6GXFnhvBStrvG7lSjycUOpvtgZDFkNxxLf69oh5EzPcT6MXDXWF6yYiIjx7vrEpGn3tJXRvXoFY7XTfl6U4l2hnx0zqKBamVq/qJnrPJ6Ik6m+QnPQBm6U+RIg4Y31bshvZM3EdDt42AIpW8NiuoEkVtYHZEpuTurhKRMlL/9tV/A5dfu/vtx1IM0MbJsHRddA4ItaqkLs9hPw9H8TMz73Ta5dpYZbmOVPnYQqQwqyi760uWcquCrnCTnO"
 		}, 
 {
 			"Name": "Mobily Free old 🇸🇦 - INJECT",
