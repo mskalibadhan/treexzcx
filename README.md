@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4.7,
+    "ConfigVersion": 4.8,
     "ConfigUpdateMsg": "Added Private Server",
     "SshPort": "22",
     "SshStunnelPort": "443",
@@ -24,12 +24,12 @@
 			"Payload": "tiSZ/gR3SKTKViaPQqJpCO21EUx65WDCA+YRh9MrsQY3XWHQcTJqYfqvFLkWQIdy+xFn5C+zX9E1M5ifXvEi4QlU/P3V+92YwuMa04p/BFN8g/yVrZCVzfSG/+6dc0Z4Lkb86Zi88sVbMl2sgcddAuSsKtA5pFlVT15oSITUJo8i5NVdr4kSP6bMeeD7hwHVo8t8jEHkDDZHjoP32/SyafvpW7bkUV94bu8Eo2zrYw94rI3DA1eNvUdJpgILrOpl2IBbWRmExqe62DzSS6QsjvW/ppdzGp3HGkgponST4jQ="
 		}, 
 {
-			"Name": "Saudi Zain free 🇸🇦 - SSL",
+			"Name": "Saudi Mobily 60 SAR 🇸🇦 - SSL",
 			"FrontQuery": "",
 			"BackQuery": "",
 			"UseCustom": false,
 			"CustomProxy": "",
-			"Sni": "6wFI53WNllOTXrYrLJ2RoQ==",
+			"Sni": "aTOzmRNTpHaSSkv5nqaGYk6WJGj27S5DC/mdsSl4DWM=",
 			"Payload": ""
 		}, 
 {
